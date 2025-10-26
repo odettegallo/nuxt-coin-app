@@ -24,7 +24,7 @@ Este proyecto fue desarrollado como parte de la actividad práctica para explora
 - Arquitectura modular y escalable.
 
 ### Captura de ejemplo en pantallas pequeñas
-![Captura en modo pantalla pequeña de aplicación con el top 10 de Criptomonedas](image.png)
+![Captura en modo pantalla pequeña de aplicación con el top 10 de Criptomonedas](app/assets/image.png)
 
 
 ---

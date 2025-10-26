@@ -14,7 +14,7 @@ Este proyecto fue desarrollado como parte de la actividad práctica para explora
 - **Nuxt 3**: Framework para Vue con soporte SSR y generación estática.
 - **Vue 3**: Framework progresivo para construir interfaces de usuario.
 - **Composición API**: Para una estructura más modular y mantenible.
-- **Estilos personalizados**: CSS modular para diseño responsivo.
+- **Estilos personalizados**: CSS modular para diseño responsivo.//Pendiente
 - **Fetch API / Axios**: Para consumir datos de precios de criptomonedas.
 
 ### Características destacadas

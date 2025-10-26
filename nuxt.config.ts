@@ -5,6 +5,13 @@ import {defineNuxtConfig} from "nuxt/config"
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+  app: {
+    head: {
+      title: 'Coin App',
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/coin.png' },
+      ]}
+  },
   plugins: ['./plugins/vuetify'],
   experimental: {
     appManifest: false,

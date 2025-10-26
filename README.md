@@ -1,4 +1,4 @@
-# Actividad: Frameworks y Librerías de VUE
+# Actividad: Frameworks y Librerías
 
 ## Aprendizaje esperado
 Reconocer librerías y frameworks complementarios para ser incorporados en una aplicación Vue de acuerdo a las necesidades.

@@ -21,8 +21,16 @@ const { data: coins, pending, error } = await useFetch<Coin[]>(
 
 <template>
   <v-card class="pa-4">
-    <v-card-title class="text-h4 mb-4">
-      <v-icon icon="mdi-bitcoin" class="mr-2"></v-icon> Top 10 Criptomonedas (USD)
+    <v-card-title class="text-h5 text-md-h4 mb-4">
+      <v-icon icon="mdi-bitcoin" class="mr-2"></v-icon>
+      
+      <span class="d-inline-block"> 
+        Top 10 Criptomonedas
+      </span>
+      
+      <span class="d-block d-md-inline-block text-center"> 
+        (USD)
+      </span>
     </v-card-title>
 
     <div v-if="pending" class="text-center">

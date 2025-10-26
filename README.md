@@ -23,8 +23,8 @@ Este proyecto fue desarrollado como parte de la actividad práctica para explora
 - Listado de las 10 criptomonedas principales con sus precios actualizados.
 - Arquitectura modular y escalable.
 
-### Captura de ejemplo
-![Captura en modo pantalla pequeña](image.png)
+### Captura de ejemplo en pantallas pequeñas
+![Captura en modo pantalla pequeña de aplicación con el top 10 de Criptomonedas](image.png)
 
 
 ---

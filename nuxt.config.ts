@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
   app: {
-    head: {
+    head: { 
       title: 'Coin App',
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/coin.png' },
